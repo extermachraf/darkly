@@ -44,3 +44,9 @@ If the server does not validate the email address on the server side, you will s
 - Avoid Hidden Input Fields for Sensitive Data
 - Implement Rate Limiting : _Limit the number of password reset requests that can be made within a certain time period (e.g., 5 requests per hour per IP address)._
 - Set up alerts for suspicious activity to respond quickly to potential attacks.
+
+
+
+
+
+[you can find more details about the insecure direct object reference in this link](https://cheatsheetseries.owasp.org/cheatsheets/Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet.html) 
